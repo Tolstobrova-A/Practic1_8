@@ -20,6 +20,7 @@ import java.util.TreeMap;
 public class PracticalTask1_8 {
 
     public static void main(String[] args) {
+    System.out.println("Practical task №1_8. Variant 5. Student Tolsbrova A.V. Group RIBO-01-22");
     HashMap<String,List> dictionaryMap =new HashMap<>();
     dictionaryMap.put("fire", Arrays.asList("огонь", "сжигать", "пламя"));
     dictionaryMap.put("honey", Arrays.asList("мёд"));
